@@ -2,3 +2,5 @@
 /data
 chunks.json
 system_prompt.txt
+/dnd_rulebook_sample_db
+/__pycache__
